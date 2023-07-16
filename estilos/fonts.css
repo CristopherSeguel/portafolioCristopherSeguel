@@ -1,0 +1,165 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('/static/media/Raleway-Regular.ttf') format('truetype');
+  }
+
+  
+
+.subtitle {
+    color: #04c2c9;
+    font-weight: 600;
+  }
+  
+
+  #SubtituloContactar {
+    margin-bottom: 60px;
+    color: #04c2c9;
+    font-weight: 600;
+    font-size: small;
+  }
+
+
+  h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    color: #ffffff;
+    margin-top: 20px;
+  }
+
+  h2,h3 {
+    font-family: 'Raleway', sans-serif;
+  }
+
+  .tituloSobreMi {
+    font-family: 'Raleway', sans-serif;
+  }
+  
+
+  .NavTitles{
+    font-family: 'Raleway', sans-serif;
+  }
+
+  .page-link{
+    color: #ffffff;
+    text-transform: uppercase;
+    margin: 0 20px;
+
+  }
+
+  .footnote{
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .highlight {
+    color: #04c2c9;
+  }
+
+  .flex {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .row {
+    flex-direction: row;
+  }
+  
+  .footer {
+    background-color: #252934;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+
+
+  footer .icon-wrap a {
+    background: #262f38;
+    cursor: pointer;
+    font-size: 18pt;
+    height: 55px;
+    overflow: hidden;
+    margin: 0 15px;
+    position: relative;
+    text-align: center;
+    transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.3s;
+    width: 55px;
+
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+div > a iconify-icon {
+    color: #fff;
+    font-size: 24px;
+    
+    
+}
+  
+  .footer .info-box {
+    display: inline-block; /* Agregado para centrar el info-box */
+    margin-top: 20px;
+    text-align: center; /* Agregado para centrar el contenido dentro de info-box */
+  }
+  
+  .footer .footnote {
+    font-size: 14px;
+    display: flex; /* Agregado */
+    justify-content: center; /* Agregado */
+    align-items: center; /* Agregado */
+  }
+  
+  .footer .highlight {
+    color: #04c2c9;
+    font-weight: 600;
+  }
+  
+
+
+  .volarriba {
+    background: #daced3;
+    cursor: pointer;
+    font-size: 30pt;
+    height: 50px;
+    left: 0;
+    line-height: 40pt;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    top: -25px;
+    transition: background 0.5s;
+    width: 47px;
+
+    
+
+  }
+
+
+
+  .TituloSeccion2{
+
+    margin-top: 50px;
+  }
+
+
+
+
+
+
+
+  
+
+
+  
+  
