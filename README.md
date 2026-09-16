@@ -1,2 +1,2 @@
 # portafolioCristopherSeguel
-Mi portafolio como desarrollador
+Mi portafolio como desarrollador 2026
